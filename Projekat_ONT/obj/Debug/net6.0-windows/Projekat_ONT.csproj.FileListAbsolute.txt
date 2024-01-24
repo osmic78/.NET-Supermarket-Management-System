@@ -1,0 +1,127 @@
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.exe
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.deps.json
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.runtimeconfig.json
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.pdb
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.AssemblyReference.cache
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form1.resources
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.GenerateResource.cache
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfoInputs.cache
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfo.cs
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CoreCompileInputs.cache
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.dll
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\refint\Projekat_ONT.dll
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.pdb
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.genruntimeconfig.cache
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\ref\Projekat_ONT.dll
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form2.resources
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Properties.Resources.resources
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormProizvodi.resources
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaKategorije.resources
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaTrgovci.resources
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CopyComplete
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\DatabaseSchemaReader.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\DbfDataReader.dll
+D:\c#\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Savage.OptimizedDataReader.dll
+D:\c#\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.ProdajaForm.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.exe
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\DatabaseSchemaReader.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\DbfDataReader.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\Savage.OptimizedDataReader.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.AssemblyReference.cache
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form1.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form2.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaKategorije.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaTrgovci.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormProizvodi.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.ProdajaForm.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Properties.Resources.resources
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.GenerateResource.cache
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfoInputs.cache
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfo.cs
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CoreCompileInputs.cache
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CopyComplete
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\refint\Projekat_ONT.dll
+C:\Users\Osmic\Desktop\Projekat_ONT\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.pdb
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.exe
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.deps.json
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.runtimeconfig.json
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.pdb
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\DatabaseSchemaReader.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\DbfDataReader.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\Savage.OptimizedDataReader.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.AssemblyReference.cache
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form1.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form2.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaKategorije.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaTrgovci.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormProizvodi.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.ProdajaForm.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Properties.Resources.resources
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.GenerateResource.cache
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfoInputs.cache
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfo.cs
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CoreCompileInputs.cache
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CopyComplete
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\refint\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.pdb
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.genruntimeconfig.cache
+C:\Projekat_ONT(sa bazom)\Projekat_ONT\obj\Debug\net6.0-windows\ref\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.exe
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.deps.json
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.runtimeconfig.json
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\Projekat_ONT.pdb
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\DatabaseSchemaReader.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\DbfDataReader.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\Savage.OptimizedDataReader.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.AssemblyReference.cache
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form1.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Form2.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaKategorije.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormaTrgovci.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.FormProizvodi.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.ProdajaForm.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Properties.Resources.resources
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.GenerateResource.cache
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfoInputs.cache
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.AssemblyInfo.cs
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CoreCompileInputs.cache
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.csproj.CopyComplete
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\refint\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.pdb
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.genruntimeconfig.cache
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\ref\Projekat_ONT.dll
+C:\Projekat_ONT(sa bazom) – 2.0\Projekat_ONT\obj\Debug\net6.0-windows\Projekat_ONT.Diagram.resources
